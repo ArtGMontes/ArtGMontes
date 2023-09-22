@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ArtGMontes
+## HI (:
+
+- 👋 I’m @ArtGMontes
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on share my career path on data science
